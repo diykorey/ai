@@ -12,4 +12,4 @@ List of AI solutions
 
 ## Misc
 1. [Huggingface](https://huggingface.co/) - AI Community
-2. [promptmatic](https://promptmatic.ai/prompts) - ChatGPT prompts
+2. [Promptmatic](https://promptmatic.ai/prompts) - ChatGPT prompts
