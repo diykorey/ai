@@ -7,7 +7,8 @@ List of AI solutions
 
 
 ## Software Development
-1. [Replit](https://replit.com/)
+1. [Replit](https://replit.com/) - software assistance
+2. [Lepton](https://www.lepton.ai/) - different LLM models integration
 
 ## Misc
 1. [Huggingface](https://huggingface.co/) - AI Community
